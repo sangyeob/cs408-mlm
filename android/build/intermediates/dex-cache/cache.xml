@@ -133,7 +133,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="4dd9b76103f732d93286878e6199571eb9418776">
+        sha1="13905859aaf4f7b5d84fd9482d123de1c1c05ccb">
         <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cbecf4a584d27bcc8f821f629e47d3529d6aa524/classes.dex" />
     </item>
     <item
@@ -340,7 +340,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="cb6aba01d6f19bdd7d1da3f7080fcb35dcb299a0">
+        sha1="4a83e94c2e4ccb2cce08700f23c44f8a7b38fc59">
         <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c856c4ad043e1bd06f014cf6f699aa2682295c30/classes.dex" />
     </item>
     <item
