@@ -57,7 +57,7 @@ public class SignInActivity extends AppCompatActivity implements
 
         // Assign fields
         mSignInButton = (SignInButton) findViewById(R.id.sign_in_button);
-
+        mSignInButton.setSize(SignInButton.SIZE_WIDE);
         // Set click listeners
         mSignInButton.setOnClickListener(this);
 
