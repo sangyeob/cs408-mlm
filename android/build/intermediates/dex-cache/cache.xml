@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.android.support/design/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.0.0_c5067afad21d13f66a8af1ade34ace2cd4d456f0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_f20da094b6e8517f4d6e085baf12e306f2305faa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2376d0ec8dbe85d3446cad64905c0395fbe220e">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-10.0.0_209898ad4958009636f82f8b8bb122f4fe6b1b0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="849da156edbc1201f5cd6e237524187442a62af3">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-10.0.0_254d70aca726ec373e2fc347b746c725674d30bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca730ac2d72056445bf68998cec6b6b2cf4d179e">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-10.0.0_c80e3ba8a7d4c345d86615aa32f0b4469a3439fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fb0229499e600b485a276d4e31161a3ae31c144c">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-10.0.0_80963efa55078b9f5b0df342d708c7cb576038db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.0.0_5777917d6499a66431f18532743464d36b322d60/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a05b3852a6aec21ea0a6ea4d284ee69c04c55c4">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-10.0.0_93a6843f0e0e451bc2e85b088b88f7f92750ec78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-database/0.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c76f6507a42aec274953e882bf3c49a570843ef5">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.firebaseui-firebase-ui-database-0.4.0_868f9854268ade11a95c5da75d0d9de25a61e522/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_fb3be60d65b1a48eb102b412dfec1eddd778c33e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a383a583c346ce8ea5767d77f4fe58e1d8e5f221">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-10.0.0_5f40858d6a5a0c9b30d1c80a43b272201b4fe241/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73fe8ab7f76e41d0cabbc4fa3399557de52efb2d">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-10.0.0_f7f5c58bda66f46965b297ccdf70f3010161104d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78128680ed03db6b5b59c2e236f591612035dfd9">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_cbecf4a584d27bcc8f821f629e47d3529d6aa524/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a61005619e43f203768ff3f224137def6f029e50">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-10.0.0_191cbede2191af2a6728aee93f6da34897950e95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_a1602aa5058ea85454ccf08862115cd3b707a27d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_1f990d363ef91bd8d70fb657698165e96dd89b8f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75dbc3537bc912d077b3db2f5ac72d5b43644b2c">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-10.0.0_71b14f5898a9b656a4e45f573bec08aac262957f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2b410ae1fda134f470276365f4b7f846269e0d23">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-10.0.0_efa5b0d02b31a3ed1b3e943b0484ad33094994ad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_a578d452a51e2f1a7217ea3990b33289b913aea6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_2c24169fa4c8d9f281c88f397c3ccd929ed8ce47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_9fbf3da195d579f15375211e7f709650e296668c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_c4f2e4ce67ef270d1b9ffd03d6455710296fdd77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.1/86b122e640af09b0723e1fa44083c354ba6d9089/glide-3.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.6.1_a0e4f8590cbcc8fa271d9628b4357c30a9cb131c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_b3d3adb3b29024791cbe8e2a732d038cf9a2073f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_2572125ee4b591ecab1a86d82de42828fb0c695d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ce6e6e59212db0893fc36e5b579cf319a84aade8">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-10.0.0_b0f217aa9bb9a1cbadea9d4816ab95da54cff74e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_c0015350fdcf13a584bbae1c7ccb3e3001a9d4a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bb364f67ec2eba2356872b2b4ddfe8aada2d5ac">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-10.0.0_d84970d67ffd72314b1692c347292c27b0d40898/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="73a2c740a76aa4ba46168ed8bcdee1966e48a589">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-10.0.0_7023b6977ac621958ab685c042e5b337162c1477/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.3.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-1.3.0_ded8fc33e26a6e2b14761ac757b1a44320b3cd34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_593b0a13f403b56e36734bec1357137ec8b5b126/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3347c3e7056fabc88bdbd8fdae65ddf2b674d977">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-10.0.0_158f8d8af927bb7dfc42b92d64a1395027ba504a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="444a220fadbdf260b3aa47c6e858c5d1e645170f">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-10.0.0_f4b49305d081a74053a6df578faad77f78f492a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_779a1cf853396d32a45f5f9e77a8aa12e288cb77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c7ed3fd9d5a9687980dac6c504abd91ad3dfa238">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-10.0.0_4a44e43d2150d68158e973ed08cecb2ed0399478/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="41e39c7ee84e63ae18df6c6ccb96d196996add4c">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-10.0.0_7c74139df85b768a618d8c5d4cded8094a2067aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_32179425bef256acb3604f949275601bde78a8d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f717d839ed6d738848b90b4de8903903e6015e">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c856c4ad043e1bd06f014cf6f699aa2682295c30/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="985be85104f6d0c5c5e51e7b7e60d8883a98ac64">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-10.0.0_64e03a016b06921d2face0ed8fb52473d91394ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae809d521d9f7da5337a82edd64eea23a76e788d">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-10.0.0_38452db78441baca5e69831dab4e0f48686bc723/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/10.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="777627dcaf0eaacd4212220e8f2d0c63def91774">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-10.0.0_a431d1519c125287597d4c4d9833ad180805e1da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.0.0_f5e51ca2a165310e9260985f5f8c523e95e053cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/Sang/OneDrive/Developments/cs408-mlm/android/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_5893167c6804fa0139efbb152227e70cf9040ddf/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "156674724275",
+    "firebase_url": "https://cs-final.firebaseio.com",
+    "project_id": "cs-final",
+    "storage_bucket": "cs-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156674724275:android:b5d75907de594a2d",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156674724275-ritq960v2f7hu13fmhdil3vammjo5p0e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.codelab.friendlychat",
+            "certificate_hash": "88CD674ADE91204D8D23AF3874FAA61DBD074C68"
+          }
+        },
+        {
+          "client_id": "156674724275-nmm2umtmps6692sgek78scdq9oh18iuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSdGc6eMatDPTmGSgTe8kSRiYR5S9hckI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156674724275-nmm2umtmps6692sgek78scdq9oh18iuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
