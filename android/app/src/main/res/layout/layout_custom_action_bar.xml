@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    android:orientation="horizontal"
+    >
+    <!--
+    <ImageButton android:src="@drawable/icon_settings"
+        android:background="?attr/actionBarItemBackground"
+        android:layout_width="?attr/actionBarSize"
+        android:layout_height="match_parent"
+        android:scaleType="centerInside"
+        android:id="@+id/item1"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"/>
+    -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/app_name"
+        android:textColor="@android:color/background_light"
+        android:gravity="center"
+        android:textSize="28sp"
+        />
+
+    <ImageButton android:src="@drawable/create_chatroom"
+        android:background="?attr/actionBarItemBackground"
+        android:layout_width="?attr/actionBarSize"
+        android:layout_height="match_parent"
+        android:scaleType="centerInside"
+        android:id="@+id/item2"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"/>
+</RelativeLayout>

@@ -134,7 +134,7 @@ public class SignInActivity extends AppCompatActivity implements
                         } else {
                             mFirebaseDatabaseReference = FirebaseDatabase.getInstance().getReference();
                             mFirebaseDatabaseReference.child("users").child(alias).setValue(new User(alias, email, photo_url, Locale.getDefault().getLanguage()));
-                            startActivity(new Intent(SignInActivity.this, MainActivity.class));
+                            startActivity(new Intent(SignInActivity.this, ChatActivity.class));
                             finish();
                         }
                     }

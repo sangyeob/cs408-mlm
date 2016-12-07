@@ -15,42 +15,43 @@
  */
 package com.google.firebase.codelab.friendlychat;
 
+import java.util.HashMap;
+
 public class FriendlyMessage {
 
-    private String text;
+    private String chatRoomID;
+    private String originalLanguage;
     private String name;
     private String photoUrl;
+    private HashMap<String, String> message;
 
     public FriendlyMessage() {
     }
 
-    public FriendlyMessage(String text, String name, String photoUrl) {
-        this.text = text;
+    public FriendlyMessage(String chatRoomID, String text, String name, String photoUrl, String originalLanguage) {
+        this.chatRoomID = chatRoomID;
         this.name = name;
         this.photoUrl = photoUrl;
+        this.originalLanguage = originalLanguage;
+        this.message = new HashMap<String, String>();
+        message.put(originalLanguage, text);
     }
 
-    public String getText() {
-        return text;
-    }
+    public String getChatRoomID() { return chatRoomID; }
+    public void setChatRoomID(String chatRoomID) { this.chatRoomID = chatRoomID; }
 
-    public void setText(String text) {
-        this.text = text;
-    }
+    public String getOriginalLanguage() { return originalLanguage; }
+    public void setOriginalLanguage(String originalLanguage) { this.originalLanguage = originalLanguage; }
+
+    public HashMap<String, String> getMessage() { return message; }
 
     public String getName() {
         return name;
     }
-
-    public void setName(String name) {
-        this.name = name;
-    }
+    public void setName(String name) { this.name = name; }
 
     public String getPhotoUrl() {
         return photoUrl;
     }
-
-    public void setPhotoUrl(String photoUrl) {
-        this.photoUrl = photoUrl;
-    }
+    public void setPhotoUrl(String photoUrl) { this.photoUrl = photoUrl; }
 }
