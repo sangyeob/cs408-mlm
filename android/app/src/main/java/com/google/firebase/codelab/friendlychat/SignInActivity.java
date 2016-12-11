@@ -36,10 +36,12 @@ import com.google.firebase.auth.AuthCredential;
 import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.GoogleAuthProvider;
+import com.google.firebase.database.ChildEventListener;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
-
-import java.util.Locale;
+import com.google.firebase.database.ValueEventListener;
 
 public class SignInActivity extends AppCompatActivity implements
         GoogleApiClient.OnConnectionFailedListener, View.OnClickListener {
@@ -133,9 +135,36 @@ public class SignInActivity extends AppCompatActivity implements
                                     Toast.LENGTH_SHORT).show();
                         } else {
                             mFirebaseDatabaseReference = FirebaseDatabase.getInstance().getReference();
-                            mFirebaseDatabaseReference.child("users").child(alias).setValue(new User(alias, email, photo_url, Locale.getDefault().getLanguage()));
-                            startActivity(new Intent(SignInActivity.this, ChatActivity.class));
-                            finish();
+                            mFirebaseDatabaseReference.child("users").push().orderByChild("email").equalTo(email).addChildEventListener(new ChildEventListener() {
+                                @Override
+                                public void onChildAdded(DataSnapshot dataSnapshot, String s) {
+                                    if(dataSnapshot.getValue() == null) {
+                                        mFirebaseDatabaseReference.child("users").push().setValue(new User(alias, email, photo_url));
+                                    }
+                                    startActivity(new Intent(SignInActivity.this, MainActivity.class));
+                                    finish();
+                                }
+
+                                @Override
+                                public void onChildChanged(DataSnapshot dataSnapshot, String s) {
+
+                                }
+
+                                @Override
+                                public void onChildRemoved(DataSnapshot dataSnapshot) {
+
+                                }
+
+                                @Override
+                                public void onChildMoved(DataSnapshot dataSnapshot, String s) {
+
+                                }
+
+                                @Override
+                                public void onCancelled(DatabaseError databaseError) {
+
+                                }
+                            })
                         }
                     }
                 });
